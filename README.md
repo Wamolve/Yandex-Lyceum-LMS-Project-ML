@@ -3,7 +3,9 @@
 [![Yandex Lyceum](https://img.shields.io/badge/Yandex%20Lyceum-ML%20Specialization-red?logo=yandex)](https://education.yandex.ru/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 
-This repository contains the final capstone project developed during my studies in the **Machine Learning Specialization at Yandex Lyceum LMS** (2025-2026) [26.06.2026 20:58]. 
+[![Kaggle](https://www.kaggle.com/competitions/ml-intensive-yandex-academy-spring-2026/leaderboard/)
+
+This repository contains the final capstone project developed during my studies in the **Machine Learning Specialization at Yandex Lyceum LMS** (2025-2026). 
 
 The project demonstrates a complete machine learning pipeline: from exploratory data analysis (EDA) and data preprocessing to feature engineering, model selection, hyperparameter tuning, and final evaluation.
 
